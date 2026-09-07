@@ -65,3 +65,80 @@ COST PREDICTION   TIME PREDICTION
               │
               ▼
           DASHBOARD
+
+## Tech Stack
+
+### Data Processing
+- Python
+- Pandas
+- NumPy
+- PyMuPDF / pdfplumber
+
+### Machine Learning
+- scikit-learn
+- XGBoost
+- SHAP
+
+### Dashboard & Visualization
+- Streamlit
+- Plotly
+- PyDeck
+
+### Development
+- Git
+- GitHub
+- AI-assisted development tools
+
+## Data
+
+PREDIX uses publicly available PAIMANA project-monitoring reports containing project-level information such as:
+
+- Project identifiers
+- Project name
+- Implementing agency
+- State
+- Approval/start date
+- Original and revised commissioning dates
+- Original and revised project cost
+- Cumulative expenditure
+- Physical progress
+
+The available PAIMANA reports are used as the basis for data extraction, preprocessing, analysis and modelling.
+
+## Project Structure
+
+```text
+PREDIX/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── sample/
+│
+├── docs/
+│
+├── src/
+│   ├── data/
+│   ├── models/
+│   │   ├── cost/
+│   │   └── time/
+│   ├── risk/
+│   ├── analytics/
+│   └── app/
+│
+├── notebooks/
+├── scripts/
+├── tests/
+│
+├── README.md
+├── CONTRIBUTING.md
+└── requirements.txt
+
+Development Philosophy
+
+PREDIX follows a modular architecture so that data processing, prediction, risk assessment, analytics and visualization can be developed independently and integrated through clearly defined interfaces.
+
+AI coding tools may be used during development, but generated code must be reviewed, tested and understood by the contributor responsible for it.
+
+Disclaimer
+
+PREDIX is a prototype decision-support system developed for Smart India Hackathon 2026.
