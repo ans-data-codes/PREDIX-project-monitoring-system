@@ -8,6 +8,17 @@
 
 PREDIX is an AI-powered decision-support platform designed to help monitor large Central Sector infrastructure projects and identify potential cost overruns, schedule delays, and implementation risks before they materialize.
 
+## Presentation dashboard
+
+The project includes a polished, interactive Streamlit demonstration dashboard with four views: portfolio monitoring, project detail, portfolio analytics, and an early-warning center. It is deliberately transparent about its data status: **only the 1,775 ongoing-project total is attributed to the July 2026 PAIMANA report; all risk scores, project profiles, distributions, and analytic values are illustrative prototype content.**
+
+Run it locally:
+
+```bash
+python -m pip install -r requirements.txt
+streamlit run src/app/app.py
+```
+
 The system analyzes project information such as cost, expenditure, physical progress, timelines, sector, state and implementing agency to generate predictive risk assessments and explainable early warnings.
 
 PREDIX is developed as a prototype for **Smart India Hackathon 2026 — SIH26103**.
