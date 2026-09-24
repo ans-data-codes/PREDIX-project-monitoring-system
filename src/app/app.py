@@ -1,4 +1,4 @@
-"""PREDIX demonstration dashboard.
+ """PREDIX demonstration dashboard.
 
 All risk signals in this interface are intentionally illustrative.  The only
 portfolio figure presented as source data is the 1,775 ongoing projects
