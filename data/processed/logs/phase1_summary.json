@@ -1,0 +1,193 @@
+{
+  "run_timestamp": "2026-09-24T20:26:30.001850+00:00",
+  "pdfs_discovered": 17,
+  "succeeded": 17,
+  "failed": 0,
+  "total_pages": 2539,
+  "total_chars": 8245056,
+  "total_empty_pages": 8,
+  "results": [
+    {
+      "pdf": "data\\raw\\monthly\\FRApril2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FRApril2025.txt",
+      "status": "OK",
+      "pages": 273,
+      "total_chars": 538615,
+      "empty_pages": [
+        1,
+        273
+      ],
+      "error": null,
+      "duration_sec": 0.47
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FR_JUNE_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FR_JUNE_2025.txt",
+      "status": "OK",
+      "pages": 234,
+      "total_chars": 508454,
+      "empty_pages": [
+        1,
+        234
+      ],
+      "error": null,
+      "duration_sec": 0.41
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FR_May2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FR_May2025.txt",
+      "status": "OK",
+      "pages": 212,
+      "total_chars": 481617,
+      "empty_pages": [
+        1,
+        212
+      ],
+      "error": null,
+      "duration_sec": 0.41
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_April2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_April2026.txt",
+      "status": "OK",
+      "pages": 163,
+      "total_chars": 690459,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.5
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_August_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_August_2025.txt",
+      "status": "OK",
+      "pages": 67,
+      "total_chars": 212585,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.23
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_December_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_December_2025.txt",
+      "status": "OK",
+      "pages": 108,
+      "total_chars": 439962,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.39
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_February_2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_February_2026.txt",
+      "status": "OK",
+      "pages": 168,
+      "total_chars": 719252,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.58
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_January_2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_January_2026.txt",
+      "status": "OK",
+      "pages": 134,
+      "total_chars": 594990,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.49
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_July_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_July_2025.txt",
+      "status": "OK",
+      "pages": 67,
+      "total_chars": 202852,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.21
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_July_2026 (2).pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_July_2026 (2).txt",
+      "status": "OK",
+      "pages": 153,
+      "total_chars": 604162,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.5
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_June_2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_June_2026.txt",
+      "status": "OK",
+      "pages": 161,
+      "total_chars": 641285,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.53
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_March_2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_March_2026.txt",
+      "status": "OK",
+      "pages": 157,
+      "total_chars": 659049,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.53
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_May2026.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_May2026.txt",
+      "status": "OK",
+      "pages": 163,
+      "total_chars": 690970,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.47
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_November_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_November_2025.txt",
+      "status": "OK",
+      "pages": 73,
+      "total_chars": 233943,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.23
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_October_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_October_2025.txt",
+      "status": "OK",
+      "pages": 73,
+      "total_chars": 233254,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.24
+    },
+    {
+      "pdf": "data\\raw\\monthly\\FlashReport_September_2025.pdf",
+      "output": "data\\processed\\text\\monthly\\FlashReport_September_2025.txt",
+      "status": "OK",
+      "pages": 72,
+      "total_chars": 225511,
+      "empty_pages": [],
+      "error": null,
+      "duration_sec": 0.23
+    },
+    {
+      "pdf": "data\\raw\\quarterly\\QPISR_QR_1st_2025-26 (1).pdf",
+      "output": "data\\processed\\text\\quarterly\\QPISR_QR_1st_2025-26 (1).txt",
+      "status": "OK",
+      "pages": 261,
+      "total_chars": 568096,
+      "empty_pages": [
+        1,
+        261
+      ],
+      "error": null,
+      "duration_sec": 0.42
+    }
+  ]
+}
